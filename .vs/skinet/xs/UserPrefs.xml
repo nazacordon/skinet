@@ -1,29 +1,25 @@
 ﻿<Properties StartupConfiguration="{F7F2E239-377F-4A30-92B2-50690143AE15}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ProductsController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Data/ProductRepository.cs">
     <Files>
-      <File FileName="API/Controllers/ProductsController.cs" Line="14" Column="28" />
-      <File FileName="Infrastructure/Data/Migrations/20210908043928_InitialCreate.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/Data/Migrations/20210908043928_InitialCreate.Designer.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/Data/Migrations/StoreContextModelSnapshot.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/Data/StoreContext.cs" Line="17" Column="2" />
-      <File FileName="API/Startup.cs" Line="1" Column="1" />
-      <File FileName="API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="API/Program.cs" Line="19" Column="1" />
+      <File FileName="Infrastructure/Data/StoreContextSeed.cs" Line="60" Column="45" />
+      <File FileName="API/Controllers/ProductsController.cs" Line="26" Column="1" />
+      <File FileName="Core/Interfaces/iProductRepository.cs" Line="12" Column="65" />
+      <File FileName="Infrastructure/Data/ProductRepository.cs" Line="12" Column="55" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="skinet" expanded="True">
             <Node name="API" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ProductsController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
             </Node>
             <Node name="Core" expanded="True">
-              <Node name="Entities" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
             </Node>
             <Node name="Infrastructure" expanded="True">
               <Node name="Data" expanded="True">
-                <Node name="Migrations" expanded="True" />
+                <Node name="ProductRepository.cs" selected="True" />
               </Node>
             </Node>
           </Node>
